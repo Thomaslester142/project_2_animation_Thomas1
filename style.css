@@ -1,0 +1,15 @@
+<style>
+@import 'https://fonts.googleapis.com/css?family=Orbitron';
+</style>
+Specify in CSS
+svg {
+  background-image: url("http://eskipaper.com/images/awesome-blue-space-wallpaper-1.jpg");
+  background-size: 100% 100%
+}
+h1 {
+  color: blue;
+  font-family: Orbitron;
+}
+p {
+  font-family: Orbitron;
+}
